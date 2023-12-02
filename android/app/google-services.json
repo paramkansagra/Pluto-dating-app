@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "784400354005",
+    "project_id": "supermatch-375915",
+    "storage_bucket": "supermatch-375915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784400354005:android:53a49d6794ad6a3cabf05c",
+        "android_client_info": {
+          "package_name": "com.example.plutofirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784400354005-tacahsok30g48pocvube89s59ut12ab6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plutofirst",
+            "certificate_hash": "39d2007dfdbca4a27077ce078d912257e47294da"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqvY-cTMJQnoRqvJCumUI-fXvqIBR2ZYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784400354005-huo3upumit9p3dafv8cdljbr71k9tgji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
